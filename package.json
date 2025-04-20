@@ -1,14 +1,1 @@
-{ 
-  "name": "login-portafolio",
-  "private":true,
-  "workspaces": ["apps/*"],
-  "version": "1.0.0",
-  "scripts": {
-    "install-all": "npm install",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Angie Gabriela Suarez Gomez",
-  "license": "ISC",
-  "description": "Portafolio de login (solo vistas)"
-} 
+{"name":"login-portafolio","private":true,"workspaces":["apps/*"],"version":"1.0.0","scripts":{"install-all":"npm install","test":"echo \"Error: no test specified\" && exit 1"},"keywords":[],"author":"Angie Gabriela Suarez Gomez","license":"ISC","description":"Portafolio de login (solo vistas)","dependencies":{"react-icons":"^5.5.0"}}
